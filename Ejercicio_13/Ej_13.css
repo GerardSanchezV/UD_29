@@ -1,0 +1,45 @@
+th,
+td {
+    padding: 20px;
+    border: 1px solid
+}
+
+table {
+    width: 100%;
+    font-weight: bold;
+}
+
+.celda1 {
+    background-color: rgb(200, 247, 131);
+}
+
+.celda2 {
+    background-color: rgb(125, 213, 248);
+}
+
+.celda6 {
+    background-color: rgb(238, 144, 230);
+}
+
+#celda3, #celda5, #celda8 {
+    color: rgb(255, 0, 0);
+    text-align: center;
+    
+  }
+
+#celda2 {
+    text-align: left;
+}
+
+
+#celda4 {
+    text-align: center;
+}
+
+#celda6 {
+    text-align: right;
+}
+
+#celda7 {
+    text-align: center;
+}

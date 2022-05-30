@@ -1,0 +1,12 @@
+table {
+    border: rgba(20, 20, 20, 0.979) 2px solid;
+    margin: 0px;
+    padding: 0px;
+    width: 10%;
+    position: relative;
+}
+
+th, td{
+    padding: 5px;
+    border: rgba(44, 43, 43, 0.979) 2px solid;
+}
